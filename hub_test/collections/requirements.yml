@@ -2,4 +2,4 @@
 collections:
   - name: test.test
     type: galaxy
-    source: https://hub-test.zapto.org/
+    source: https://10.177.169.28

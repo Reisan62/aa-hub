@@ -1,5 +1,5 @@
 ---
 collections:
   - name: test.test
-    version: *
+    version: latest
     source: https://test-hub.duckdns.org/api/galaxy/

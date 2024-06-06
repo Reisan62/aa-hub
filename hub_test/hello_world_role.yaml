@@ -1,7 +1,4 @@
 ---
 - hosts: localhost
-  collections:
-    - test.test
-
   roles:
-    - hello_world
+    - test.test.hello_world

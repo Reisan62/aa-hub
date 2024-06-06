@@ -1,5 +1,5 @@
 ---
 collections:
   - name: test.test
-    type: galaxy
+    version: 1.0.1
     source: https://test-hub.duckdns.org/api/galaxy/

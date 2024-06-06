@@ -1,0 +1,11 @@
+---
+- name: Install NGINX server
+  hosts: localhost
+  become: true
+  gather_facts: true
+
+  roles:
+    - role: nginx
+      vars:
+        nginx_worker_connections: 2048
+        nginx_keepalive_timeout: 30

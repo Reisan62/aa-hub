@@ -1,6 +1,7 @@
 ---
 - hosts: localhost
-  tasks:
-    - name: Include a Role from the collection
-      include_role:
-        name: hello_world
+  collections:
+    - test.test
+
+  roles:
+    - hello_world

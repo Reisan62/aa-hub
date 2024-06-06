@@ -2,4 +2,4 @@
 collections:
   - name: test.test
     type: galaxy
-    source: https://10.177.169.28
+    source: https://test-hub.duckdns.org

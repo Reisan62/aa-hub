@@ -1,4 +1,4 @@
 ---
 - hosts: localhost
   roles:
-    - test.test_role
+    - test.hello.test_role

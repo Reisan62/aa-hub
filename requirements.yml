@@ -1,6 +1,4 @@
 ---
 collections:
-  - name: test.test
-    source: https://test-hub.duckdns.org/api/galaxy/
   - name: test.hello
     source: https://10.177.169.62/api/galax

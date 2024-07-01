@@ -2,3 +2,4 @@
 collections:
   - name: test.hello
     source: https://10.177.169.62/api/galaxy/
+    version: 1.0.2

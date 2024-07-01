@@ -1,4 +1,4 @@
 ---
 collections:
-  - name: test.hello
+  - name: test.yandexcloud
     source: https://10.177.169.62/api/galax
